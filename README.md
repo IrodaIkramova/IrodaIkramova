@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IrodaIkramova
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning java 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on programing
 - 📫 How to reach me 99 9168673
 
 <!---
